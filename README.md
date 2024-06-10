@@ -1,5 +1,5 @@
 # Lean learning materials
-_Here's my collection of tutorials about Lean, functional programming and logical verification_.
+_Here's my collection of some useful tutorials about Lean, functional programming and logical verification_.
 
 ### 1. General
 
