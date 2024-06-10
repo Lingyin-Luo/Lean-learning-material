@@ -1,5 +1,5 @@
 # Lean learning materials
-_Here's my collection of tutorials about Lean_
+_Here's my collection of tutorials about Lean and logic verification_
 
 ### 1. General
 
