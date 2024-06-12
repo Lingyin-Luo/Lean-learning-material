@@ -3,6 +3,8 @@ _Here's my collection of some useful tutorials about Lean, functional programmin
 
 ### 1. General
 
+* An overview from the Lean community : click [here](https://leanprover-community.github.io/learn.html)
+
 * [Lean Manual](https://lean-lang.org/lean4/doc/print.html)
   
 * [Games](https://adam.math.hhu.de/#/) for getting in touch with Lean for a first glance
