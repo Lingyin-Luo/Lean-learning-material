@@ -37,6 +37,8 @@ _Here's my collection of some useful tutorials about Lean, functional programmin
 
 ### 4. Logic fundations
 
+* [Logic and proof](https://leanprover.github.io/logic_and_proof/introduction.html)
+
 * A [list](https://logic.cmu.edu/courses.html) of logic courses offered by CMU
   
 * Lectures from Prof.Nipkow at TUM:
